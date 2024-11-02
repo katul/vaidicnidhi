@@ -41,6 +41,17 @@
 .main{
   padding-top:60px;
 }
+
+sup.new{
+  color:#9f000f;
+  animation: blink-animation 1s steps(5, start) infinite; /* Animation properties */
+}
+
+@keyframes blink-animation {
+  to {
+      visibility: hidden; /* Change visibility to hidden */
+  }
+}
 .light-background {
   --background-color: #e9f7f8;
   --surface-color: #ffffff;
