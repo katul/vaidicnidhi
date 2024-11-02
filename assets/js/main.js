@@ -196,7 +196,7 @@
 
   function populateTabs(tabsContainer){
     if(tabsContainer){
-      fetch('../assets/sample.json')
+      fetch('/assets/sample.json')
         .then(response => response.json())
         .then(data => {
           const createTab = (type, isActive) => {
