@@ -5,7 +5,7 @@
    * Apply .scrolled class to the body as the page is scrolled down
    */
   function checkURLStructure(){
-    if(window.location.href.includes('portfolio-details') && getQueryParam('id')==null){
+    if(window.location.href.includes('details') && getQueryParam('id')==null){
       return false;
     }else {
       return true;
@@ -236,7 +236,7 @@
             contentDiv.setAttribute("data-aos-delay","100");
             contentDiv.innerHTML = `
               <div class="service-item position-relative">
-                  <a target="_blank" href="portfolio-details.html?id=${product.id}" class="stretched-link">
+                  <a target="_blank" href="details.html?id=${product.id}" class="stretched-link">
                     <img src="assets/img/related/${product.imagePath}" alt="${product.name}"/>
                     <h3 class="text-center">${product.name}</h3>
                   </a>

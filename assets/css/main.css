@@ -38,7 +38,9 @@
 }
 
 /* Color Presets - These classes override global colors when applied to any section or element, providing reuse of the sam color scheme. */
-
+.main{
+  padding-top:60px;
+}
 .light-background {
   --background-color: #e9f7f8;
   --surface-color: #ffffff;
@@ -357,7 +359,7 @@ h6 {
 /* Navmenu - Mobile */
 @media (max-width: 1199px) {
   .mobile-nav-toggle {
-    color: var(--nav-color);
+    color: #9f000f;
     font-size: 28px;
     line-height: 0;
     margin-right: 10px;
@@ -387,7 +389,7 @@ h6 {
 
   .navmenu a,
   .navmenu a:focus {
-    color: var(--nav-dropdown-color);
+    color: #9f000f;
     padding: 10px 20px;
     font-family: var(--nav-font);
     font-size: 17px;
@@ -423,7 +425,7 @@ h6 {
   .navmenu a:hover,
   .navmenu .active,
   .navmenu .active:focus {
-    color: var(--nav-dropdown-hover-color);
+    color: #9f000f;
   }
 
   .navmenu .active i,
