@@ -237,7 +237,7 @@
             contentDiv.innerHTML = `
               <div class="service-item position-relative">
                   <a target="_blank" href="details.html?id=${product.id}" class="stretched-link">
-                    <img src="assets/img/related/${product.imagePath}" alt="${product.name}"/>
+                    <img src="assets/images/${product.imagePath}" alt="${product.name}"/>
                     <h3 class="text-center">${product.name}</h3>
                   </a>
               </div>`;
@@ -269,16 +269,16 @@
   // Get the product ID from the query parameter
     const productId = getQueryParam('id');
     if(portfolioDiv){
-      fetch('../assets/sample.json')
+      fetch('sample.json')
       .then(response => response.json())
       .then(data => {
         const updatePortfolioContent = (product) => {
           if(product.id==productId){
             let portfolioImg = document.querySelector('.portfolio-img');
             if(product.imagePath){
-              portfolioImg.setAttribute("src","assets/img/related/"+product.imagePath);
+              portfolioImg.setAttribute("src","assets/images/"+product.imagePath);
             }else{
-              portfolioImg.setAttribute("src","assets/img/related/default.jpg");
+              portfolioImg.setAttribute("src","assets/images/default.jpg");
             }
             let serviceHeading = document.querySelector('.service-detail-heading');
             if(serviceHeading){

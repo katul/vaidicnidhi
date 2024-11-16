@@ -4,7 +4,7 @@
       "id": "1",
       "type":"puja",
       "name": "Annaprashan Puja",
-	    "imagePath":"janmashtmi_puja.jpg",
+	    "imagePath":"annprashan_puja.jpg",
       "description": "<b>Annaprashan</b> is the ceremony where the baby is introduced to solid foods preferably Sweet/Milk Rice for the first time. The puja is performed to bestow a very healthy and prosperous life for the baby.",
       "pricing_details": {
         "basic": 3100.00,
@@ -50,7 +50,7 @@
       "id": "2",
       "type":"puja",
       "name": "Bhoomi Puja",
-      "imagePath":"InShot_20240418_132850045.jpg",
+      "imagePath":"bhoomi_puja.jpg",
       "description": "<b>Bhoomi Puja</b> is performed for Goddess Bhoomi, Vastu Purush, the deity of directions, and the five elements of nature to remove negative influences or Vastu dosh in the plot or Land.",
       "pricing_details": {
         "basic": 4500.00,
@@ -96,7 +96,7 @@
       "id": "3",
       "type":"puja",
       "name": "Durga Puja",
-      "imagePath":"Durga_Puja.jpg",
+      "imagePath":"durga_puja.jpg",
       "description": "Durga Mata is a very powerful deity. Performing this Puja protects people from all troubles and sufferings. A person will be blessed with happiness and positivity in life.",
       "pricing_details": {
         "basic": 2500.00,
@@ -182,7 +182,7 @@
       "id": "5",
       "type":"puja",
       "name": "Gand Mool Nakshatra Shanti Puja",
-      "imagePath":"InShot_20240419_125434264.jpg",
+      "imagePath":"gandmool_nakshtra_puja.jpg",
       "description": "Sataisa Puja is performed when the baby is born in Ashvani, Ashlesha, Magha, Revati, Jyestha, and Moola Nakshatras. The child is said to be born in Gand Mool Nakshatras, it is very important to perform Gand mool nakshatra Shanti puja. It is performed for the well-being of the baby and its family members especially Mother, Father, and Mamaji.",
       "pricing_details": {
         "basic": 7500.00,
@@ -229,7 +229,7 @@
       "id": "6",
       "type":"puja",
       "name": "Ganesh Puja",
-      "imagePath":"Ganesh_Puja.jpg",
+      "imagePath":"ganpati_puja.jpg",
       "description": "Ganesh Puja is performed for Lord Ganapathi who removes all the obstacles and negative energies. This puja bestows a person with victory, brings harmony to the family, and helps to attain success in life.",
       "pricing_details": {
         "basic": 2500.00,
@@ -272,7 +272,7 @@
       "id": "7",
       "type":"puja",
       "name": "Graha Shanti Puja",
-      "imagePath":"vastu_shanti.jpg",
+      "imagePath":"surya_grah_mantra_jaap.jpg",
       "description": "Graha Shanti Puja is the set of Pujas and rituals that are performed for Navgrahas to remove all the graha dosh of the person and family.",
       "pricing_details": {
         "basic": 5100.00,
@@ -364,7 +364,7 @@
       "id": "9",
       "type":"puja",
       "name": "Janamdin / Birthday Puja",
-      "imagePath":"birthday_puja.jpg",
+      "imagePath":"birthday_ceremony_puja.jpg",
       "description": "Janamdin is one of the most important days in one’s life. Janamdin Puja is done on the date of birth and recommended for everyone for happy long life.",
       "pricing_details": {
         "basic": 3500.00,
@@ -453,7 +453,7 @@
       "id": "11",
       "type":"puja",
       "name": "Mundan(Chadukarna) Ceremony",
-      "imagePath":"mundan.jpg",
+      "imagePath":"mundan_chudakaran_sanskar_puja.jpg",
       "description": "Mundan Ceremony is performed for the child, the hairs are shaved to signify freedom from the past and moving into the new life. Chudakarana is done to ensure the baby grows as a healthy and spiritual individual who is free from sins and also to attain the goodness of life.",
       "pricing_details": {
         "basic": 3100.00,
@@ -496,7 +496,7 @@
       "id": "12",
       "type":"puja",
       "name": "Namkaran Puja",
-      "imagePath":"namkaran.jpg",
+      "imagePath":"namkaran_sanskar_puja.jpg",
       "description": "Namkaran Puja is the naming ceremony of a newborn baby. It is performed to formally announce the baby’s name as per the suggestion of starting letter given by panditji based on the Nakshatra of the baby. Namkaran Puja is a ritual of providing Samskaras to the child, which is considered of utmost importance in shaping the character and upbringing of a child.",
       "pricing_details": {
         "basic": 3500.00,
@@ -542,7 +542,7 @@
       "id": "13",
       "type":"puja",
       "name": "New Vehicle Puja",
-      "imagePath":"InShot_20240418_132850045.jpg",
+      "imagePath":"new_vehicle_puja.jpg",
       "description": "Vahan Puja or New Vehicle puja is performed for a new vehicle to help the owner get all the positive benefits of the vehicle and avoid any untimely accidents. This puja is usually performed for removing any Doshas or Drishti associated with the vehicle.",
       "pricing_details": {
         "basic": 2100.00,
@@ -588,7 +588,7 @@
       "id": "14",
       "type":"puja",
       "name": "Office Opening Puja",
-      "imagePath":"office_opening.jpg",
+      "imagePath":"office_opening_puja.jpg",
       "description": "In the New building or Place, many negative dosh and effects exist. By performing Office Opening Puja, blessings of Lord Ganesha and Mata Lakshmi are invoked to negate the power or influence of negative energies and bring in success in the business.",
       "pricing_details": {
         "basic": 3500.00,
@@ -634,7 +634,7 @@
       "id": "15",
       "type":"puja",
       "name": "Punsavan Sanskar",
-      "imagePath":"punsavan_sanskar.jpg",
+      "imagePath":"punshwan_sanskar.jpg",
       "description": "Punsavan sanskar is performed in the third month of pregnancy to attain a healthy and strong child and attain blessings of lord for a smooth pregnancy. Punsavan sanskar also know as Pumsavan is the second sanskaras in the 16 sanskaras.",
       "pricing_details": {
         "basic": 2500.00,
@@ -680,7 +680,7 @@
       "id": "16",
       "type":"puja",
       "name": "Rudrabhishek Puja",
-      "imagePath":"rudrabhishek.jpg",
+      "imagePath":"rudrabhisek_puja.jpg",
       "description": "Rudrabhishek Puja is a very powerful pooja of Lord Shiv. Lord Ram did Rudrabhishekam in Rameswaram to Shiv lingam to get the blessings of Lord Shiva. This puja helps in having a strong mind, good health, and getting rid of evil effects. Performing this puja is to eliminate and overcome any obstacles that a person might come across in life. Lord Ram did Rudrabhishek in Rameshwaram to invoke Lord Shiva’s blessings before going to war with Ravan.",
       "pricing_details": {
         "basic": 3500.00,
@@ -726,7 +726,7 @@
       "id": "17",
       "type":"puja",
       "name": "Satyanarayan Puja",
-      "imagePath":"satyanarayan_puja.jpg",
+      "imagePath":"satynarayan_puja.jpg",
       "description": "Satyanarayan Puja is performed to appease Lord Satyanarayan, the most compassionate form of Lord Vishnu. Satya means Truth; Narayana means The highest being. Hence Lord Satyanarayan is considered the epitome of Truth and Justice. The puja is done to offer gratitude to the almighty on the start or successful completion of auspicious events in a person’s life. The puja is also performed to fulfill people’s wishes and desires. The purpose of this puja is to bring friends and family together, encourage unity and harmony to make sure that abundance, prosperity, general happiness, and well-being prevail in the family.",
       "pricing_details": {
         "basic": 3500.00,
@@ -772,7 +772,7 @@
       "id": "18",
       "type":"puja",
       "name": "Vastu Shanti Puja",
-      "imagePath":"vastu_shanti.jpg",
+      "imagePath":"vastu_shanti_puja.jpg",
       "description": "Vastu Shanti puja is performed for Vastu Purush, lord of directions, five elements of nature to remove negative influences, or Vastu dosh of the home or office to have a good and happy life.  A home that is Vastu compliant will radiate Positive energy, reduces the malefic effects of bad Vastu, and help maintain the peace, harmony, and prosperity of the people staying in the home. Vastu Shanti Puja grants mercy in case the construction of the building had caused any harm to any living thing like trees, animals, birds, insects, etc.",
       "pricing_details": {
         "basic": 9100.00,
@@ -818,7 +818,7 @@
       "id": "19",
       "type":"puja",
       "name": "Vishwakarma Puja",
-      "imagePath":"vishwakarna_puja.jpg",
+      "imagePath":"viswkarma_puja.jpg",
       "description": "Lord Vishwakarma is the chief deity of all architects and craftsmen also known as Devashilpi. This puja is performed to please Lord Vishwakarma and get his blessings for a happy and wealthy life.  Lord Vishwakarma is worshipped by engineers, architects, craftsmen, factory workers, and people in all professions as a mark of reverence to ensure a harmonious and prosperous career. ",
       "pricing_details": {
         "basic": 3100.00,
@@ -864,7 +864,7 @@
       "id": "20",
       "type":"puja",
       "name": "Vivah (Marriage)",
-      "imagePath":"Vishnu_Vivah_Manglik_Vadhu.jpg",
+      "imagePath":"vivah_marriage_ceremony.jpg",
       "description": "Marriage Puja or Wedding Ceremony is one of the most important events in people’s life. It signifies the transitional state from Brahmacharayashram to Grihasthashramam. Performing Vivah puja acts as an invitation to the many Gods and Goddesses by performing various rituals to come and bless the couple. Vivah is a very sacred union. Performing Pooja for Marriage Ceremony acts as an invitation to the many Gods and Goddesses by performing various rituals to come and bless the couple. The Fire acts as the witness or Sakshi to this holy union. The promises made during Vivah Puja are lifelong commitments that the bride and the groom make to each other.",
       "pricing_details": {
         "basic": 13500.00,
@@ -907,7 +907,7 @@
       "id": "21",
       "type":"puja",
       "name": "Yagnopavit Sanskar",
-      "imagePath":"yagnopavit_sanskar.jpg",
+      "imagePath":"yagnopaveet_sanskar.jpg",
       "description": "Yagnopavit Sanskar or Upnayan Sanskar is performed to a boy who enters the age of 8. It makes a person fit to receive instruction in the Vedas and spread divine power throughout the world. Panditji begins this puja with Gauri Ganesh puja, Punyaha Vachan, Maha Sankalpam, Kalash puja, Upnayan. The havan is performed as per the Shastras. A Brahmin is also called a Dwija that means the one who is born twice. A boy is said to be born again when you perform Janeu Sanskar. A sacred thread, called Janeu or Yajnopaveetam is placed around the left shoulder of the boy.",
       "pricing_details": {
         "basic": 9100.00,
