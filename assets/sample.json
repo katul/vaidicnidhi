@@ -1300,7 +1300,7 @@
       "id": "30",
       "type":"hawan",
       "name": "Saraswati Havan",
-      "imagePath":"default.jpg",
+      "imagePath":"sarasawati_hawan.jpg",
       "description": "Mata Saraswati is the deity of intelligence, wisdom, arts, music, memory power, and other soft skills. This havan relieves people from mental pressure and improves concentration, memory power, focus, and the ability to understand complex things. This havan is performed by invoking Goddess Saraswati followed by the chanting of Saraswati Mantra and then performing the Saraswati havan.",
       "pricing_details": {
         "basic": 3500,
@@ -1905,7 +1905,7 @@
       "id": "46",
       "type":"Path",
       "name": "Akhand Ramayan Path",
-      "imagePath":"default.jpg",
+      "imagePath":"akhand_ramayan_paath.jpg",
       "description": "<p>Akhand Ramayan Path is the recital of Ramcharit manas continuously without stopping for 24 hours, it is performed with Bhajans and Kirtans praising the Lord Shri Ram and his life teachings to get the blessings and peaceful life. The entire text includes seven kaands i.e. Baalkand, Ayodhyakand, Aranyakand, Kishkindhakand, Sundarkand, Lankakand and Uttarkand. Each kaands describes the different stages and leelas of Lord Shree Ram.</p>",
       "pricing_details": {
         "basic": 21000,
@@ -1994,7 +1994,7 @@
       "id": "48",
       "type":"Path",
       "name": "Hanuman Chalisa Path",
-      "imagePath":"hanuman.png",
+      "imagePath":"sundarkand_paath.jpg",
       "description": "<p>Lord Hanuman is one of the Chiranjeevis. Performing the Hanuman Chalisa path helps a person to get total focus over the mind and body. It assists to get rid of all the fear and invokes the blessings of Lord Hanuman. Hanuman Chalisa Path is a collection of Hindu Devotional Hymns (forty chaupais) addressing Lord Hanuman, the most ardent devotee of Lord Rama, known for his loyalty, devotion, strength, valor, courage, wisdom, and celibacy. Reciting the Hanuman Chalisa path helps one person to get total focus over the mind and body.</p>",
       "pricing_details": {
         "basic": 6100,
@@ -2037,7 +2037,7 @@
       "id": "49",
       "type":"Path",
       "name": "Shanti Path",
-      "imagePath":"default.jpg",
+      "imagePath":"shanti_paath.jpg",
       "description": "<p>Shanti path is performed to attain peace and Harmony. Shanti path is usually performed to get peace of mind and pay homage to the passed ones. Performing this puja purifies the surrounding. It helps in bringing peace and Harmony.</p>",
       "pricing_details": {
         "basic": 4100,
@@ -2080,7 +2080,7 @@
       "id": "50",
       "type":"Path",
       "name": "Sundar kand Path",
-      "imagePath":"default.jpg",
+      "imagePath":"sundarkand_paath.jpg",
       "description": "<p>The Sundarkand Path tells the story of Lord Hanuman’s devotion,highlighting his extraordinary courage, wisdom, faith, dedication, and strength.Reciting this sacred text at home is believed to bring mental and physical fortitude, while also helping to eliminate poverty and ailments from one's life.</p>",
       "pricing_details": {
         "basic": 3500,
@@ -2126,8 +2126,8 @@
       "id": "51",
       "type":"Astrology",
       "name": "Astrology Services",
-	    "imagePath":"default.jpg",
-      "description": "<b>Annaprashan</b> is the ceremony where the baby is introduced to solid foods preferably Sweet/Milk Rice for the first time. The puja is performed to bestow a very healthy and prosperous life for the baby.",
+	    "imagePath":"astrology-symbol.png",
+      "description": "<p>Discover personalized insights and guidance through astrology, tailored to your unique birth chart. Unlock the mysteries of the cosmos to navigate life's challenges and opportunities with clarity.</p>",
       "pricing_details": {
         "basic": 3100.00,
         "special": 5500.00,
@@ -2135,19 +2135,19 @@
       },
       "Insights:": [
         {
-          "text": "Baby takes solid food for the first time."
+          "text": "Gain deep insights into your personality, strengths, and life path based on your unique astrological profile."
         },
         {
-          "text": "It helps the baby to grow healthy and strong."
+          "text": "Explore upcoming planetary transits and their influence on your career, relationships, and personal growth."
         },
 		    {
-          "text": "Performed on 6th or 7th month on Janma Nakshatra day."
+          "text": "Understand dynamics with loved ones through synastry and composite chart readings."
         },
 		    {
-          "text": "Mantras are chanted for the baby’s well-being."
+          "text": "Align with your cosmic blueprint to make informed decisions in key areas of your life."
         },
 		    {
-          "text": "Kheer or Milk Rice is the main ingredient for the ceremony."
+          "text": "Harness astrology for self-awareness, healing, and spiritual transformation."
         }
       ],
 	  "Promise":[
