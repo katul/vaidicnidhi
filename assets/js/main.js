@@ -325,10 +325,10 @@ function sendEmail(){
   let forms = document.querySelectorAll('#contactLead')[0];
   forms.querySelector('.loading').classList.add('d-block');
    emailjs.init({
-     publicKey: "3CRm6i4HfJZq8WMsr",
+     publicKey: "TC1bVXADx7066O17y",
    });
   
-  emailjs.sendForm('service_rmgvlpo', 'template_qg9cjpm', '#contactLead').then(
+  emailjs.sendForm('service_o1hawac', 'template_rovbsss', '#contactLead').then(
       
     (response) => {
       forms.querySelector('.loading').classList.remove('d-block');
