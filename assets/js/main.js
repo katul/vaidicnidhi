@@ -237,7 +237,7 @@
             contentDiv.innerHTML = `
               <div class="service-item position-relative">
                   <a target="_blank" href="details.html?id=${product.id}" class="stretched-link">
-                    <img src="assets/images/${product.imagePath}" alt="${product.name}"/>
+                    <img src="/assets/images/${product.imagePath}" alt="${product.name}"/>
                     <h3 class="text-center">${product.name}</h3>
                   </a>
               </div>`;
