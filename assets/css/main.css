@@ -903,7 +903,7 @@ section,
 
 @keyframes animatedBackground {
   from {
-    background-position: 20% 0;
+    background-position: 50% 0;
   }
   to {
     background-position: 0 100%;
