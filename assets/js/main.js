@@ -6,6 +6,7 @@
    */
   function checkURLStructure(){
     if(window.location.href.includes('details') && getQueryParam('id')==null){
+      callNewFunction();
       return false;
     }else {
       return true;
